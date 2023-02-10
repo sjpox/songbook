@@ -1,0 +1,18 @@
+
+
+manage songs
+    id: uuid4
+    name: string
+    description: string
+    lyrics: string
+    artists: [artist_id]
+    date_created: date
+    date_updated: date
+
+
+manage artists
+    id: uuid4
+    name: string
+
+
+
